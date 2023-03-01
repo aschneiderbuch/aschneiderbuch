@@ -44,7 +44,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aschneiderbuch&show_icons=true&locale=en&layout=transparent" alt="aschneiderbuch" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aschneiderbuch&show_icons=true&locale=de&theme=transparent" alt="aschneiderbuch" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aschneiderbuch&show_icons=true&locale=de&theme=transparent" alt="aschneiderbuch" /></p>
