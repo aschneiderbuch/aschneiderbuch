@@ -39,7 +39,7 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aschneiderbuch&show_icons=true&locale=de&layout=compact&theme=transparent](https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-ar21.svg" alt="aschneiderbuch" /></p>
+<p><img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-ar21.svg" alt="aschneiderbuch" /></p>
 
 
 
