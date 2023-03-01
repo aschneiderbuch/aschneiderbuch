@@ -4,7 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p display="flex" justify-content="center" width="100vw">
+<p display="flex" justify-content="center" width="100">
 <span align="left">  
        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
