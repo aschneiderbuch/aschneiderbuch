@@ -50,7 +50,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aschneiderbuch&locale=de&theme=vision-friendly-dark" alt="aschneiderbuch" /></p>
 
 
-![Snake animation](https://github.com/aschneiderbuch/aschneiderbuch/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <p><img align="center" src="https://github.com/aschneiderbuch/aschneiderbuch/blob/output/github-contribution-grid-snake.svg" alt="aschneiderbuch" /></p>
