@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aschneiderbuch&show_icons=true&locale=de&theme=transparent" alt="aschneiderbuch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aschneiderbuch&theme=transparent" alt="aschneiderbuch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aschneiderbuch&locale=de&theme=transparent" alt="aschneiderbuch" /></p>
 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
