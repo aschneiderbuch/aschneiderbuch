@@ -8,12 +8,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aschneiderbuch&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aschneiderbuch" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aschneiderbuch&show_icons=true&locale=de&layout=compact&theme=transparent" alt="aschneiderbuch" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aschneiderbuch&show_icons=true&locale=en" alt="aschneiderbuch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aschneiderbuch&show_icons=true&locale=de&theme=transparent" alt="aschneiderbuch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aschneiderbuch&" alt="aschneiderbuch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aschneiderbuch&theme=transparent" alt="aschneiderbuch" /></p>
 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
