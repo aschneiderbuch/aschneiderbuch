@@ -16,9 +16,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aschneiderbuch&" alt="aschneiderbuch" /></p>
 
 
+<h2> 📈 &nbsp;My GitHub History!</h2>
 
 ![Snake animation](https://github.com/aschneiderbuch/aschneiderbuch/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **aschneiderbuch/aschneiderbuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
