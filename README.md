@@ -8,7 +8,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aschneiderbuch&" alt="aschneiderbuch" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aschneiderbuch&label=Profile%20views&color=0e75b6&style=flat" alt="aschneiderbuch" /> </p>
 
 
 
@@ -25,4 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aschneiderbuch&label=Profile%20views&color=0e75b6&style=flat" alt="aschneiderbuch" /> </p>
+
 -->
