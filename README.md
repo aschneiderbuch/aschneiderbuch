@@ -16,7 +16,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aschneiderbuch&" alt="aschneiderbuch" /></p>
 
 
-<a href="http://www.github.com/aaaaaaaaaaaa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aaaaaaaaaaaa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/aschneiderbuch"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aschneiderbuch&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 <!--
@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 
 // trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile"><img src="https://github-profile-trophy.vercel.app/?username=aschneiderbuch" alt="aschneiderbuch" /></a> </p>
+
+// 
+<a href="http://www.github.com/aschneiderbuch"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aschneiderbuch&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 // ounter
