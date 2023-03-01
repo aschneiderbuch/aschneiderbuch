@@ -19,7 +19,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aschneiderbuch" alt="aschneiderbuch" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile"><img src="https://github-profile-trophy.vercel.app/?username=aschneiderbuch" alt="aschneiderbuch" /></a> </p>
 
 
 <!--
