@@ -4,6 +4,14 @@
 
 <h3 align="left">Tools:</h3>
 
+<p> Ich nehme an einem Intensiv-Remote-Vollzeit-Coding-Bootcamp bei Supercode teil, 
+um Full-Stack-Entwickler / WebDeveloper zu werden.
+Die letzten Monate stehen unter dem Motto „eat-code-sleep-repeat“.
+In dieser Zeit habe ich eine enorme Menge an neuen, aktuellen und interessanten Tools anzuwenden gelernt, u.a. in täglichen Coding-Aufgabe bzw. Projekten alleine und zusammen als Team.
+ 
+Technologien wie GitHub, React, Javascript, CSS/SCSS, HTML5, API`s, Node und mehr sind Hauptbestandteile davon. Ich werde diese neuen Skills mit meiner Erfahrung und meiner Motivation gerne weiter bei Ihnen mit einbringen.
+       </p>
+
 <p >
 <span align="left">  
        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
