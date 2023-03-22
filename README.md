@@ -1,9 +1,6 @@
 ### <h1 color="red"> Servus 👋 </h1>
 
 
-
-<h3 align="left">Tools:</h3>
-
 <p> Ich nehme an einem Intensiv-Remote-Vollzeit-Coding-Bootcamp bei Supercode teil, 
 um Full-Stack-Entwickler / WebDeveloper zu werden.
 Die letzten Monate stehen unter dem Motto „eat-code-sleep-repeat“.
@@ -11,6 +8,9 @@ In dieser Zeit habe ich eine enorme Menge an neuen, aktuellen und interessanten 
  
 Technologien wie GitHub, React, Javascript, CSS/SCSS, HTML5, API`s, Node und mehr sind Hauptbestandteile davon. Ich werde diese neuen Skills mit meiner Erfahrung und meiner Motivation gerne weiter bei Ihnen mit einbringen.
        </p>
+       
+
+<h3 align="left">Tools:</h3>
 
 <p >
 <span align="left">  
