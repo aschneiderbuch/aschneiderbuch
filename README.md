@@ -6,7 +6,6 @@
 um Full-Stack-Entwickler / WebDeveloper zu werden.
 Die letzten Monate bestanden aus täglichen Coding Aufgaben bzw. Projekten und standen unter dem Motto „eat-code-sleep-repeat“.
 In dieser Zeit habe ich eine enorme Menge an neuen, aktuellen und interessanten Tools anzuwenden gelernt, alleine und zusammen als Team.
- 
 Technologien wie GitHub, React, Javascript, CSS/SCSS, HTML5, API`s, Node und mehr sind Hauptbestandteile davon. Ich werde diese neuen Skills mit meiner Erfahrung und meiner Motivation gerne weiter bei Ihnen mit einbringen.
 
 </p>
