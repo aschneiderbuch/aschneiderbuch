@@ -2,11 +2,12 @@
 
 
 <p> 
-       Ich nehme an einem Intensiv-Remote-Vollzeit-Coding-Bootcamp bei Supercode teil, 
-um Full-Stack-Entwickler / WebDeveloper zu werden.
-Die letzten Monate bestanden aus täglichen Coding Aufgaben bzw. Projekten und standen unter dem Motto „eat-code-sleep-repeat“.
+       Ich nehme an einem Intensiv-Remote-Vollzeit-Coding-Bootcamp bei SuperCode teil, 
+um Full-Stack-Entwickler / WebDeveloper im MERN-Stack zu werden.
+Die letzten Monate bestanden aus täglichen Coding Aufgaben bzw. Projekten und standen unter dem Motto „Eat-Code-Sleep-Repeat“.
 In dieser Zeit habe ich eine enorme Menge an neuen, aktuellen und interessanten Tools anzuwenden gelernt, alleine und zusammen als Team.
-Technologien wie GitHub, React, Javascript, CSS/SCSS, HTML5, API`s, Node und mehr sind Hauptbestandteile davon. Ich werde diese neuen Skills mit meiner Erfahrung und meiner Motivation gerne weiter bei Ihnen mit einbringen.
+Technologien wie HTML5, CSS3, React.js, JavaScript, Node.js, Express.js, REST-API, MonogDB und vieles mehr sind Hauptbestandteile davon. 
+       
 
 </p>
        
